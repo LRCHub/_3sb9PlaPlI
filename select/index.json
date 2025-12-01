@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "茎 (日本語バージョン)",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:22:55.305969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茎 - 日本語バージョン",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/01_茎_-_日本語バージョン_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茎 (日本語バージョン)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_茎_(日本語バージョン)_椎名林檎.lrc"
+    }
+  ]
+}
